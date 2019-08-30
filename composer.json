@@ -1,0 +1,12 @@
+{
+    "name": "digital/composer",
+    "authors": [
+        {
+            "name": "gabriel-brunetti",
+            "email": "gabriel.brunetti1@gmail.com"
+        }
+    ],
+    "require": {
+        "bissolli/validador-cpf-cnpj": "^1.2"
+    }
+}
